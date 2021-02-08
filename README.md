@@ -3,6 +3,8 @@
 
 <br />
 
+[![Example DApp](https://img.shields.io/badge/DApp-Example-purple.svg?style=for-the-badge&logo=ethereum)](https://remix.ethereum.org/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 -----------------------------------------------
